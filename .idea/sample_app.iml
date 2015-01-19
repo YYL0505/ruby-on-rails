@@ -134,6 +134,7 @@
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.7.10, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="byebug (v3.5.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.1.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.3.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.8.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
@@ -148,20 +149,30 @@
     <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.2.6, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v4.0.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v1.8.2, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="kgio (v2.9.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="loofah (v2.0.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.6.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="method_source (v0.8.2, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v2.4.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mini_portile (v0.6.2, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="minitest (v5.5.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.10.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.5, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pg (v0.17.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry (v0.10.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry-byebug (v2.0.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="quiet_assets (v1.0.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.6.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails (v4.2.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v1.0.5, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.0.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails_12factor (v0.0.2, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails_serve_static_assets (v0.0.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails_stdout_logging (v0.0.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v4.2.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="raindrops (v0.13.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v10.4.2, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v4.2.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.4.9, RVM: ruby-2.0.0-p598) [gem]" level="application" />
@@ -178,6 +189,7 @@
     <orderEntry type="library" scope="PROVIDED" name="turbolinks (v2.5.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.2, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v2.7.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="unicorn (v4.8.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="web-console (v2.0.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
